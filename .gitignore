@@ -128,4 +128,4 @@ dist
 
 #user files
 images/
-*.csv
+back_urls.csv

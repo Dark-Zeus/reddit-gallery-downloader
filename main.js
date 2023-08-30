@@ -25,7 +25,7 @@ const puppeteer = require('puppeteer');
         }
     }
 
-    //await browser.close();
+    await browser.close();
 })();
 
 const download = async(chapter, url, page) => {
